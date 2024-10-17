@@ -1,6 +1,10 @@
 # SpotDown
-Downloads tracks of a spotify playlist or just a single track.
+SpotDown is a simple and efficient tool that allows you to download tracks from a Spotify playlist or a single track without needing a premium account.
 
-## Info
-This script uses spotifydown-api to download the tracks, so you won't have to require any premium account.
-Just enter the link of your playlist or song and enter the path to download.
+## Features
+Download entire Spotify playlists or individual tracks
+- No premium account required
+- Easy-to-use: just provide the link and download path
+
+## How It Works
+SpotDown leverages the spotifydown-api to fetch and download Spotify tracks directly to your specified location.
