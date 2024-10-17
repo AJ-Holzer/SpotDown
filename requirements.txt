@@ -1,0 +1,3 @@
+ajpack==1.26.2
+requests==2.32.3
+mutagen==1.47.0
