@@ -10,4 +10,4 @@ Download entire Spotify playlists or individual tracks
 SpotDown leverages the spotifydown-api to fetch and download Spotify tracks directly to your specified location.
 
 ## Usage
-'<downloadPath>;<link>'
+´<downloadPath>;<link>´
