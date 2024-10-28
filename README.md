@@ -11,3 +11,4 @@ SpotDown leverages the spotifydown-api to fetch and download Spotify tracks dire
 
 ## Usage
 ´downloadPath;link´
+For multiple tracks, you just have to seperate the pairs with a ",".
