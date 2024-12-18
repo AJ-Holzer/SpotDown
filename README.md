@@ -1,4 +1,8 @@
 # SpotDown
+
+> **‼️ Doesn't work anymore! The API blocks the requests.**
+
+## Info
 SpotDown is a simple and efficient tool that allows you to download tracks from a Spotify playlist or a single track without needing a premium account.
 
 ## Features
